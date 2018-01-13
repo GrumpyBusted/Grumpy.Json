@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <id>Grumpy.Json</id>
+        <version>0</version>
+        <title>Grumpy.Json</title>
+        <description>Depending on the magnificent Newtonsoft.Json, with a few extensions I always end up needing.</description>
+        <summary>
+            Depending on the magnificent Newtonsoft.Json, with a few extensions I always end up needing.
+        </summary>
+        <tags>Extension Json</tags>
+        <authors>Anders Busted-Janum</authors>
+        <owners>GrumpyBusted</owners>
+        <projectUrl>https://github.com/GrumpyBusted/Grumpy.Json</projectUrl>
+        <iconUrl>https://github.com/GrumpyBusted/Grumpy.Json/Grumpy.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <language>en-US</language>
+        <copyright>Copyright © Busted-Janum 2018</copyright>
+        <dependencies>
+            <dependency id="Newtonsoft.Json" version="10.0.3" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="Grumpy.Json.dll" target="lib\net451" />
+        <file src="Grumpy.Json.pdb" target="lib\net451" />
+    </files>
+</package>
+
