@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
     <metadata>
-        <id>Grumpy.Json</id>
-        <version>0</version>
-        <title>Grumpy.Json</title>
+        <id>$id$</id>
+        <version>$version$</version>
+        <title>$id$</title>
         <description>Depending on the magnificent Newtonsoft.Json, with a few extensions I always end up needing</description>
         <summary>
             Depending on the magnificent Newtonsoft.Json, with a few extensions I always end up needing.
@@ -12,7 +12,8 @@
         <authors>Anders Busted-Janum</authors>
         <owners>GrumpyBusted</owners>
         <projectUrl>https://github.com/GrumpyBusted/Grumpy.Json</projectUrl>
-        <iconUrl>https://github.com/GrumpyBusted/Grumpy.Json/Grumpy.png</iconUrl>
+        <licenseUrl>https://github.com/GrumpyBusted/Grumpy.Json/blob/master/LICENSE</licenseUrl>
+        <iconUrl>https://github.com/GrumpyBusted/Grumpy.Json/blob/master/Grumpy.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <language>en-US</language>
         <copyright>Copyright © Busted-Janum 2018</copyright>
