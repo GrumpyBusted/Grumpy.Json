@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Grumpy.Json")]
 [assembly: AssemblyDescription("Depending on the magnificent Newtonsoft.Json, with a few extensions I always end up needing.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Anders Busted-Janum")]
 [assembly: AssemblyProduct("Grumpy.Json")]
 [assembly: AssemblyCopyright("Copyright © Busted-Janum 2018")]
 [assembly: AssemblyTrademark("")]

@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Grumpy.Json.UnitTests")]
 [assembly: AssemblyDescription("Unit Test for Grumpy.Json")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Anders Busted-Janum")]
 [assembly: AssemblyProduct("Grumpy.Json.UnitTests")]
 [assembly: AssemblyCopyright("Copyright © Busted-Janum 2018")]
 [assembly: AssemblyTrademark("")]
