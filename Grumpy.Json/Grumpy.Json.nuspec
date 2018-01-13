@@ -4,16 +4,15 @@
         <id>Grumpy.Json</id>
         <version>0</version>
         <title>Grumpy.Json</title>
-        <description>Depending on the magnificent Newtonsoft.Json, with a few extensions I always end up needing</description>
+        <description>Extending the magnificent Newtonsoft.Json, with a few extension methods I always end up needing</description>
         <summary>
-            Depending on the magnificent Newtonsoft.Json, with a few extensions I always end up needing.
+            Extending the magnificent Newtonsoft.Json, with a few extension methods I always end up needing.
         </summary>
         <tags>Extension Json</tags>
         <authors>Anders Busted-Janum</authors>
         <owners>GrumpyBusted</owners>
         <projectUrl>https://github.com/GrumpyBusted/Grumpy.Json</projectUrl>
         <licenseUrl>https://github.com/GrumpyBusted/Grumpy.Json/blob/master/LICENSE</licenseUrl>
-        <iconUrl>https://github.com/GrumpyBusted/Grumpy.Json/blob/master/Grumpy.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <language>en-US</language>
         <copyright>Copyright © Busted-Janum 2018</copyright>
