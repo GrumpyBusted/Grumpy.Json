@@ -4,7 +4,7 @@
         <id>Grumpy.Json</id>
         <version>0</version>
         <title>Grumpy.Json</title>
-        <description>Extending the magnificent Newtonsoft.Json, with a few extension methods I always end up needing</description>
+        <description>Extension Methods for Json</description>
         <summary>
             Extending the magnificent Newtonsoft.Json, with a few extension methods I always end up needing.
         </summary>
