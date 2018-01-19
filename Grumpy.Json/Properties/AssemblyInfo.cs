@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("Grumpy.Json")]
-[assembly: AssemblyDescription("Extending the magnificent Newtonsoft.Json, with a few extension methods I always end up needing")]
+[assembly: AssemblyDescription("Extension Methods for Json")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Anders Busted-Janum")]
 [assembly: AssemblyProduct("Grumpy.Json")]

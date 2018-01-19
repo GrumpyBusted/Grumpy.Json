@@ -8,7 +8,7 @@
         <summary>
             Extending the magnificent Newtonsoft.Json, with a few extension methods I always end up needing.
         </summary>
-        <tags>Extension Json</tags>
+        <tags>json extension-methods</tags>
         <authors>Anders Busted-Janum</authors>
         <owners>GrumpyBusted</owners>
         <projectUrl>https://github.com/GrumpyBusted/Grumpy.Json</projectUrl>
