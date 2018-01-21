@@ -5,9 +5,7 @@
         <version>0</version>
         <title>Grumpy.Json</title>
         <description>Extension Methods for Json</description>
-        <summary>
-            Extending the magnificent Newtonsoft.Json, with a few extension methods I always end up needing.
-        </summary>
+        <summary>Extending the magnificent Newtonsoft.Json, with a few extension methods I always end up needing.</summary>
         <tags>json extension-methods</tags>
         <authors>Anders Busted-Janum</authors>
         <owners>GrumpyBusted</owners>
