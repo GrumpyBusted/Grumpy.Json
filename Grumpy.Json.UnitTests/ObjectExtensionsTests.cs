@@ -52,7 +52,7 @@ namespace Grumpy.Json.UnitTests
         [Fact]
         public void ObjectShouldSerializeWithDateSettingsToJson()
         {
-            var obj = new 
+            var obj = new
             {
                 Name = "MyName",
                 Date = DateTimeOffset.Parse("2017-12-03")
